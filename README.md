@@ -139,7 +139,7 @@ npm run dev  # or python sherpa_mind_agent.py
 ---
 
 ## 🌍 License
-MIT. Fork it. Remix it. Let it help you see yourself.
+Apache 2.0. Fork it. Remix it. Let it help you see yourself.
 
 ---
 
